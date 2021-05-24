@@ -5,3 +5,5 @@
 [Github](https://github.com/pedroaf0)
 
 [Me compre um café](https://www.pedroaf0.cf/pix)
+
+[Playlist](https://www.pedroaf0.cf/Playlist)
