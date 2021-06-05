@@ -4,6 +4,14 @@
 
 [Github](https://github.com/pedroaf0)
 
-[Me compre um café](https://www.pedroaf0.cf/pix)
+[Me de dinheiro](https://www.pedroaf0.cf/pix)
 
-[Playlist](https://www.pedroaf0.cf/Playlist)
+[Playlists](https://www.pedroaf0.cf/Playlist)
+
+-----------------
+
+[twitter](https://youtu.be/lrbaDxQUDdQ?t=182)
+
+[instagram](https://www.youtube.com/watch?v=CJ2rFU2ea1E)
+
+[facebook](https://www.youtube.com/watch?v=AzA8OVC5QxI)
