@@ -4,9 +4,9 @@
 
 [Github](https://github.com/pedroaf0)
 
-[Me de dinheiro](https://www.pedroaf0.cf/pix)
+[Me de dinheiro](/pix)
 
-[Playlists](https://www.pedroaf0.cf/Playlist)
+[Playlists](/Playlist)
 
 -----------------
 
