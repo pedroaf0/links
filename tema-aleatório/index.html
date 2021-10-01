@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body onload="loadimage()">
+
+<img id="red" width="100%" src="" alt="">
+<script>
+function loadimage() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      console.log(JSON.parse(this.responseText).data.endImagem);
+      document.getElementById("red").src = JSON.parse(this.responseText).data.endImagem;
+    }
+  };
+  xhttp.open("GET", `https://services.redacaonota1000.com.br/api/v2/temas/${Math.floor(Math.random() * 1000) + 100}`, true);
+  xhttp.setRequestHeader('authorization','RED1000 eyJhbGciOiJSUzUxMiJ9.eyJqdGkiOiJlOTQ4ODNjOS1iMjhiLTRiMjEtOWQ5NC1mMDRkNmVlNDNhNDEiLCJzdWIiOiI0ZjBmNDQ1Yi1jYmZiLTQ3ZDctOTMzZS1kOTVjY2I0NGM0YjUiLCJub21lIjoiUGVkcm8iLCJhcGVsaWRvIjoicGVkcm8iLCJwZXJmaWwiOiJBTFVOT19CMkMiLCJpYXQiOjE2MzMwNDg5OTcsImV4cCI6MTYzMzEzNTM5N30.YB_xrw322LHMu5uD0dSYoyRq6Ov401lq2cPREQKqhDGfXkB4kGITYjx0ivAaXL355mGo_K4HcQvLGtuovhlxFWxTNKKzC1t-h-jIF59U5GrF47j-hFcyXkdr33_HmRlAiEVeb2HE2RIbYxkc3sBgtC4wiAj6EVZaQKnuFIwKlxmNHps3Z8UPIsNzq0-Mejs9_npOSVNroQwGpLGiQLia72GiZsc7Gn-xfZmGKp22Up14IB_tvKiuPjaOgjgiGlZThEYZhtG9hAu4CyWHcZb4Q3WXg-g7esHRXdPc_usADM5si4alvPi7p1OOChYzwtoWj_Jg4NtK2nFBglr9VBYWRw');
+  
+
+  xhttp.send();
+}
+</script>
+
+</body>
+</html>
