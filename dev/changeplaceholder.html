@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body onload="loadimage()">
+<input id="name" type="email" placeholder="Matricula" required autofocus>
+<script>
+  var i = 0;
+  var x = ["CPF ex: 123.123.123-12","Matricula","Email"]
+setInterval(() => {
+  console.log(i)
+  i++
+  document.getElementById("name").placeholder = x[i];
+  if(i == 2 ) i = 0;
+}, 2000);
+console.log("oo")
+
+</script>
+
+</body>
+</html>
