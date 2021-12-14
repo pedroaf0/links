@@ -1,4 +1,4 @@
-# @pedroaf0 links
+# @pedroaf0
 
 [Meu blog](https://medium.com/blog-do-pedroaf0)
 
@@ -8,10 +8,7 @@
 
 [Playlists](/Playlist)
 
------------------
+[telegram](t.me/pedroaf0)
 
-[twitter](https://youtu.be/lrbaDxQUDdQ?t=182)
+[Arquivos no telegram](https://t.me/s/pedroaf0archive)
 
-[instagram](https://www.youtube.com/watch?v=CJ2rFU2ea1E)
-
-[facebook](https://www.youtube.com/watch?v=AzA8OVC5QxI)
