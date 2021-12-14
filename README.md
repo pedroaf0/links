@@ -8,7 +8,7 @@
 
 [Playlists](/Playlist)
 
-[telegram](t.me/pedroaf0)
+[telegram](https://t.me/pedroaf0)
 
 [Arquivos no telegram](https://t.me/s/pedroaf0archive)
 
