@@ -1,6 +1,6 @@
 # @pedroaf0
 
-[Meu blog](https://medium.com/blog-do-pedroaf0)
+[blog](https://medium.com/blog-do-pedroaf0)
 
 [Github](https://github.com/pedroaf0)
 
